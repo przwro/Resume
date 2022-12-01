@@ -30,7 +30,7 @@ body {
 .container .left-side {
     position: relative;
     background: #003147;
-    padding: 40px;
+    padding: 15px;
 }
 
 .profileText {
@@ -75,7 +75,7 @@ body {
 }
 
 .contactInfo {
-    padding-top: 40px;
+    padding-top: 30px;
 }
 
 .title {
@@ -83,7 +83,7 @@ body {
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 1px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .contactInfo ul {
@@ -93,7 +93,8 @@ body {
 .contactInfo ul li {
     position: relative;
     list-style: none;
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     cursor: pointer;
 }
 
