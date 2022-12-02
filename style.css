@@ -222,7 +222,7 @@ p {
     background: #03a9f4;
 }
 
-.interest {
+.interest ul {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
 }
